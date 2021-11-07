@@ -4,7 +4,7 @@ import './App.css';
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 import {Switch} from "react-router-dom";
 import Register from "./Register";
-import Error from "./ErrorPage";
+import Error from "./Error";
 import DashBoardAdmin from "./AdminDashBoard"
 import UserPage from "./UserPage";
 import RegisterApplication from "./RegisterApplication"
