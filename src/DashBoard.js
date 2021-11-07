@@ -1,5 +1,5 @@
 import * as React from 'react';
-import MyCard from "../Pages/Page";
+import MyCard from "./Page.js";
 import { useState, useEffect } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { Button } from '@material-ui/core';

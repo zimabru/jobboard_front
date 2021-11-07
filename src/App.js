@@ -1,20 +1,20 @@
 import * as React from 'react';
-import Login from './components/login.js'
+import Login from './login'
 import './App.css';
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 import {Switch} from "react-router-dom";
-import Register from "./components/Register";
-import Error from "./Route/ErrorPage";
-import DashBoardAdmin from "./components/Admin/AdminDashBoard"
-import UserPage from "./components/UserPage";
-import RegisterApplication from "./components/RegisterApplication"
-import RegisterCompany from "./components/RegisterCompany"
-import RegisterAdvertisement from "./components/RegisterAdvertisement"
-import Frontage from "./components/Frontage";
-import JobSeeker from './components/JobSeeker.js';
-import ChampionSeeker from './components/ChampionSeeker.js';
-import Redirection from './components/Redirection.js';
-import LearnMore from './components/LearnMore'
+import Register from "./Register";
+import Error from "./ErrorPage";
+import DashBoardAdmin from "./AdminDashBoard"
+import UserPage from "./UserPage";
+import RegisterApplication from "./RegisterApplication"
+import RegisterCompany from "./RegisterCompany"
+import RegisterAdvertisement from "./RegisterAdvertisement"
+import Frontage from "./Frontage";
+import JobSeeker from './JobSeeker';
+import ChampionSeeker from './ChampionSeeker.js';
+import Redirection from './Redirection.js';
+import LearnMore from './LearnMore'
 
 
 function App() {

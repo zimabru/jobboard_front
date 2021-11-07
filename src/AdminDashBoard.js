@@ -1,7 +1,7 @@
 import * as React from 'react';
 import JobApplicationAdmin from "./JobApplicationAdmin";
 import AdminUser from "./AdminUser";
-import Navbar from "../Navbar"
+import Navbar from "./Navbar"
 import Company from "./AdminCompany"
 import AdvertisementTable from "./AdminAdvertisement";
 

@@ -3,7 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import "../MyCard.css";
+import "./MyCard.css";
 import { useState } from "react";
 import { useHistory } from 'react-router';
 import "./Page.css"
